@@ -1,0 +1,7 @@
+# Rollup JS
+
+* /src/modules/ - contains modular js files (exports)
+
+* /src/output/output1.js - imports the modular js files
+
+* in CLI 'npm run build' - build this to /js/bundle.js which is the final product
