@@ -5,3 +5,6 @@
 * /src/output/output1.js - imports the modular js files
 
 * in CLI 'npm run build' - build this to /js/bundle.js which is the final product
+
+# needs babel or js compiler to transpile to js so compatible in browsers 
+* Uncaught SyntaxError: Unexpected token export - this error is currently experienced as browsers do not support ES6
