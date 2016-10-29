@@ -8,6 +8,10 @@
 	"build": "rollup src/output/output1.js --output js/bundle.js"
 	//cmd prompt - 'npm run build' will output this
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajannahar/rollup.git"
+  },
   "author": "",
   "license": "ISC"
 }
